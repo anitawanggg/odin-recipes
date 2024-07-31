@@ -1,0 +1,21 @@
+.click {
+    background-color: green;
+    color: white;
+    font-weight: bold;
+    font-size: 48px;
+}
+
+ul {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 48px;
+}
+
+.cookies {
+    color: rgb(255, 0, 247);
+}
+
+#header {
+    text-align: center;
+    font-weight: 1000;
+    font-size: 60px;
+}
