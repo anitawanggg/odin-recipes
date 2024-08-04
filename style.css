@@ -19,3 +19,13 @@ ul {
     font-weight: 1000;
     font-size: 60px;
 }
+
+.newin {
+    background-color: pink;
+    color: black;
+    font-size: 30px;
+    padding: 10px;
+    border: 10px dotted green;
+    display: block;
+    margin: 20px auto;
+}
